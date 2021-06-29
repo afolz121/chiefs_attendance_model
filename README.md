@@ -8,7 +8,6 @@ data for the number of years you are looking to use.
 
 Initial modeling has been complete. Lasso Lars and Ridge regression gave some slight lift when using the RMSE of attendence to the average attendance in the dataset. 
 
-Next, I want to try some neural networks with tensorflow to see if I can increase R^2 compared to the lasso and ridge models. 
 
 
 
